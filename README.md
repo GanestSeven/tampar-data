@@ -24,3 +24,4 @@ Uploads Trick :
 
 - file.png.jpg.php
 - file.php%00.png%00.jpg
+ss
